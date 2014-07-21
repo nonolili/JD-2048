@@ -7,7 +7,7 @@ function HTMLActuator() {
   this.score = 0;
 }
 
-var shrekSayings = ['Ogres are like Onions', 'this is my Swamp', 'Shrek is love', 'Shrek is life', 'check urself before u Shrek urself', "get Shrek'd",];
+var shrekSayings = ['01', '02', '03', '04', '05', "06",];
 
 
 HTMLActuator.prototype.actuate = function (grid, metadata) {

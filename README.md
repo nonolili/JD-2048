@@ -1,7 +1,11 @@
-# Shrek 2048
+# JD 2048
+A clone of 2048 with added JD.
 
-A clone of 2048 with added Shrek.
+#Original
+[2048](https://github.com/gabrielecirulli/2048)
+
+[Shrek 2048](https://github.com/Omegablaster/Shrek-2048)
 
 ## License
-Shrek 2048 is licensed under the [MIT license.](https://github.com/gabrielecirulli/2048/blob/master/LICENSE.txt)
+JD 2048 is licensed under the [MIT license.](https://github.com/gabrielecirulli/2048/blob/master/LICENSE.txt)
 
